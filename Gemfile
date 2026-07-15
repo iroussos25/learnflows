@@ -65,6 +65,6 @@ group :test do
   gem "selenium-webdriver"
 end
 
-gem "haml-rails", "~> 3.0"
+gem "haml-rails", "~> 3.1"
 
 gem "dockerfile-rails", ">= 1.7", :group => :development
